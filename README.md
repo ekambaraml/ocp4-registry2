@@ -1,1 +1,2 @@
-# ocp4-registry2
+# Deploying Registry Service in OCP platform with Docker Schema2
+
